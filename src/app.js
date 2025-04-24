@@ -20,14 +20,7 @@ window.onload = function() {
           let dominio = pronoun[i] + adj[j] + noun[k] + ext[l];
         console.log(dominio);
         }
-
-        
- 
       };
-
     };
   };
-
-
-
 };
